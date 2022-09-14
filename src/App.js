@@ -7,7 +7,9 @@ function App() {
 
   return (<div className='Big'>
     <Simpsons/>
-    <h2>Rick $ Morty</h2>
+
+    <h1>Rick $ Morty</h1>
+
     <div className='two'>
       <Users/>
     </div>
