@@ -6,6 +6,7 @@ function App() {
 
 
   return (<div className='Big'>
+
     <Simpsons/>
 
     <h1>Rick $ Morty</h1>
